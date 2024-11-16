@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cpp-parser<br><br>🌱 I’m currently learning imgui<br><br>❓ Ask me about anything related to c++<br><br>⚡ Fun fact: I love Ireland
+🔭 I’m currently working on nothingr<br><br>🌱 I’m currently learning winapi<br><br>❓ Ask me about anything related to c++<br><br>⚡ Fun fact: I love Ireland
 
 
 ## 🌐 Socials:
