@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is zxcabso and I'm a software developer, from ukraine</h2>
+<h2 align="left">Hi 👋! My name is zxcabso and I'm a web developer from ukraine</h2>
 
 ###
 
